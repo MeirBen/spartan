@@ -20,7 +20,6 @@
     "prettify": "prettier --write .",
     "chromatic": "chromatic --project-token=chpt_845c7a47afdb884"
   },
-  
   "private": true,
   "dependencies": {
     "@analogjs/content": "0.2.9",
